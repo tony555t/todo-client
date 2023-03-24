@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import NavBar from "./NavBar";
 import Login from "../pages/Login";
 import TodoList from "../pages/TodoList";
-import NewTodo from "../pages/NewTodo";
+import NewTask from "../pages/NewTask";
 import EditTodoModal from "./EditTodoModal";
 
 function App() {
